@@ -43,7 +43,6 @@ public class Solution {
         ArrayList<Point> queue = new ArrayList<Point>();
         queue.add(new Point(0,0));
 
-        int depth
         while(!queue.isEmpty()) {
             Point p = queue.get(0);
 
