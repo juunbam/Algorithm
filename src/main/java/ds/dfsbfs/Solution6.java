@@ -35,5 +35,3 @@ public class Solution6 {
     }
 
 }
-
-//https://www.ralphlauren.com/women/sale?ab=en_US_SLP_Slot_1_S1_L2_SHOP&srule=women-sale&viewallproducts=true
